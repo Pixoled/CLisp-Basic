@@ -1,0 +1,25 @@
+AUTHORS:
+XINLEI HONG, 999232167
+XUANYU CHEN, 912111346
+
+Peculiarities:
+The assignment is testing our familiarity on lisp: how well we can use a
+functional (lambda calculus based) language. 
+
+Another essential point of this assignment is recursion. Recursion is an idea
+that breaks a big problem into several base cases. Thus, this assignment is 
+also a practice of how to break functions like "match", "match-var" into easier
+situations --- from direct match to wildcard (? and !), from wildcard to direct
+match and also from wildcard to wildcard. It is important for us to know when
+we need to change from one to the other.
+
+Since lisp is a new language to us, we search a lot of basic information from
+website. We get the basic overview from "yiibai.com", and get some specific
+function info from "clhs.lisp.se".
+
+Work:
+The last test fail.
+
+Source:
+	http://www.yiibai.com/lisp/lisp_vectors.html
+	http://clhs.lisp.se/Body/f_subseq.htm
